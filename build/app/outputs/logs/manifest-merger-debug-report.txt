@@ -1,0 +1,266 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+MERGED from [io.github.edufolly.fluttermobilevision:flutter_mobile_vision_release:1.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/2f1add63011b86aa66f32ae30647a1da/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88b7713b49fd7bbc6d9051c1d4ac681/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/81fe62e83c2365903c0373881e4f196f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/d528ecb259a9aa932d8b2b7b4f91872a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e63d1aba1c88c48dd56f23c0b1dc489c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/23005bad37293e6e189453eecca773d5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/59794c2bee7088c087877b3d917ef8b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/20a9f1a1948f22db8ace81eb9c62e579/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/cf2f84731d5936f094178d6c3b7b10e8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f3f8e00a093f0cf2854a6efc06c3f8e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/0d50ee4da43b87b74459132b1fe08a7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/8575e95fd737056efd1a6ac0651bf53d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/55335dade21d1772db8f7843cc07c485/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11f461515c9d3fff9b5c84a81b38b578/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88c7b5b405e0a885604a39fcff7d30e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/d596c11be91b89e71ff2c6291fc1615c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/0d09cdba0bc875a3f8fd58c255f715e1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e8cfe7b8abc23781846878a9504427ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/4ef227c7c398dd703fe9a1554c7a322a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/7151b1a8fd9587e4116916a81ecd96d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/2196ff859d384f845798bd09f7690cde/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/8c38482e0cedacbb1d3603074ec29d85/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/c4d948ccbe057262b41a914156f9de95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1496830937a7546f806c8ce85f797663/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/75d71ab48d3f6bd75a1331b3887242e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/aad5f5003db962f38f2b6d0721f396ba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11b8088e4875e2cf465c32de29fb953b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1e6cec1e8cbde8c43f64672981b2be26/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/3d3b6e2c2ef4efb91b4e51545673fff0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f5300d7769a6b0a1415d807779905bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/acef4bcf9e44cab571e3781cb14ab9b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/68d0fbdc8dc9c887a768d10c21335e23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/979667c0da45f02dad8c24a689a9792b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/6a34d551f0890cab01024253d79629db/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/bf692529c65d8815ed2007f9d45eff96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/fee537a3aefa709ff338b21d8340acae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f54f290e0252bf011f8de95f9617d853/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/64cf7132b46df9c060f1dd7b5051a9b3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1bdab99f58f0001e5a549ba53bbdd99c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+	package
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:2:5-44
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:1-57:12
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:5:5-60
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:5:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.INTERNET
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:12:22-64
+application
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:19:5-56:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88b7713b49fd7bbc6d9051c1d4ac681/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88b7713b49fd7bbc6d9051c1d4ac681/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/81fe62e83c2365903c0373881e4f196f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/81fe62e83c2365903c0373881e4f196f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e63d1aba1c88c48dd56f23c0b1dc489c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e63d1aba1c88c48dd56f23c0b1dc489c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/23005bad37293e6e189453eecca773d5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/23005bad37293e6e189453eecca773d5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/20a9f1a1948f22db8ace81eb9c62e579/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/20a9f1a1948f22db8ace81eb9c62e579/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/cf2f84731d5936f094178d6c3b7b10e8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/cf2f84731d5936f094178d6c3b7b10e8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11b8088e4875e2cf465c32de29fb953b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11b8088e4875e2cf465c32de29fb953b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/6a34d551f0890cab01024253d79629db/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/6a34d551f0890cab01024253d79629db/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11b8088e4875e2cf465c32de29fb953b/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:21:9-43
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:20:9-57
+meta-data#com.google.android.gms.version
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:25:9-27:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:27:13-66
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:26:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:28:9-30:39
+	android:value
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:29:13-70
+activity#io.flutterung.thailand.ungocr.MainActivity
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:32:9-50:20
+	android:launchMode
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:36:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:35:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:38:13-55
+	android:configChanges
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:34:13-137
+	android:theme
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:37:13-47
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:33:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:43:13-45:40
+	android:value
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:45:17-37
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:44:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:46:13-49:29
+action#android.intent.action.MAIN
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:48:17-77
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:48:27-74
+activity#io.github.edufolly.fluttermobilevision.barcode.BarcodeCaptureActivity
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:52:9-106
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:52:19-103
+activity#io.github.edufolly.fluttermobilevision.ocr.OcrCaptureActivity
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:53:9-98
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:53:19-95
+activity#io.github.edufolly.fluttermobilevision.face.FaceCaptureActivity
+ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:54:9-100
+	android:name
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml:54:19-97
+uses-sdk
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+MERGED from [io.github.edufolly.fluttermobilevision:flutter_mobile_vision_release:1.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/2f1add63011b86aa66f32ae30647a1da/AndroidManifest.xml:5:5-44
+MERGED from [io.github.edufolly.fluttermobilevision:flutter_mobile_vision_release:1.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/2f1add63011b86aa66f32ae30647a1da/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88b7713b49fd7bbc6d9051c1d4ac681/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88b7713b49fd7bbc6d9051c1d4ac681/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/81fe62e83c2365903c0373881e4f196f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/81fe62e83c2365903c0373881e4f196f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/d528ecb259a9aa932d8b2b7b4f91872a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/d528ecb259a9aa932d8b2b7b4f91872a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e63d1aba1c88c48dd56f23c0b1dc489c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e63d1aba1c88c48dd56f23c0b1dc489c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/23005bad37293e6e189453eecca773d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/23005bad37293e6e189453eecca773d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/59794c2bee7088c087877b3d917ef8b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/59794c2bee7088c087877b3d917ef8b8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/20a9f1a1948f22db8ace81eb9c62e579/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/20a9f1a1948f22db8ace81eb9c62e579/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/cf2f84731d5936f094178d6c3b7b10e8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/cf2f84731d5936f094178d6c3b7b10e8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f3f8e00a093f0cf2854a6efc06c3f8e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f3f8e00a093f0cf2854a6efc06c3f8e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/0d50ee4da43b87b74459132b1fe08a7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/0d50ee4da43b87b74459132b1fe08a7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/8575e95fd737056efd1a6ac0651bf53d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/8575e95fd737056efd1a6ac0651bf53d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/55335dade21d1772db8f7843cc07c485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/55335dade21d1772db8f7843cc07c485/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11f461515c9d3fff9b5c84a81b38b578/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11f461515c9d3fff9b5c84a81b38b578/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88c7b5b405e0a885604a39fcff7d30e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e88c7b5b405e0a885604a39fcff7d30e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/d596c11be91b89e71ff2c6291fc1615c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/d596c11be91b89e71ff2c6291fc1615c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/0d09cdba0bc875a3f8fd58c255f715e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/0d09cdba0bc875a3f8fd58c255f715e1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e8cfe7b8abc23781846878a9504427ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/e8cfe7b8abc23781846878a9504427ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/4ef227c7c398dd703fe9a1554c7a322a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/4ef227c7c398dd703fe9a1554c7a322a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/7151b1a8fd9587e4116916a81ecd96d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/7151b1a8fd9587e4116916a81ecd96d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/2196ff859d384f845798bd09f7690cde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/2196ff859d384f845798bd09f7690cde/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/8c38482e0cedacbb1d3603074ec29d85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/8c38482e0cedacbb1d3603074ec29d85/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/c4d948ccbe057262b41a914156f9de95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/c4d948ccbe057262b41a914156f9de95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1496830937a7546f806c8ce85f797663/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1496830937a7546f806c8ce85f797663/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/75d71ab48d3f6bd75a1331b3887242e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/75d71ab48d3f6bd75a1331b3887242e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/aad5f5003db962f38f2b6d0721f396ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/aad5f5003db962f38f2b6d0721f396ba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11b8088e4875e2cf465c32de29fb953b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/11b8088e4875e2cf465c32de29fb953b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1e6cec1e8cbde8c43f64672981b2be26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1e6cec1e8cbde8c43f64672981b2be26/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/3d3b6e2c2ef4efb91b4e51545673fff0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/3d3b6e2c2ef4efb91b4e51545673fff0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f5300d7769a6b0a1415d807779905bbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f5300d7769a6b0a1415d807779905bbe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/acef4bcf9e44cab571e3781cb14ab9b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/acef4bcf9e44cab571e3781cb14ab9b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/68d0fbdc8dc9c887a768d10c21335e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/68d0fbdc8dc9c887a768d10c21335e23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/979667c0da45f02dad8c24a689a9792b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/979667c0da45f02dad8c24a689a9792b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/6a34d551f0890cab01024253d79629db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/6a34d551f0890cab01024253d79629db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/bf692529c65d8815ed2007f9d45eff96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/bf692529c65d8815ed2007f9d45eff96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/fee537a3aefa709ff338b21d8340acae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/fee537a3aefa709ff338b21d8340acae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f54f290e0252bf011f8de95f9617d853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/f54f290e0252bf011f8de95f9617d853/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/64cf7132b46df9c060f1dd7b5051a9b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/64cf7132b46df9c060f1dd7b5051a9b3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1bdab99f58f0001e5a549ba53bbdd99c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/masterung/.gradle/caches/transforms-2/files-2.1/1bdab99f58f0001e5a549ba53bbdd99c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/masterung/.gradle/caches/transforms-2/files-2.1/5bc94b67e779f638c18aca28bf8d1d09/AndroidManifest.xml:24:13-79

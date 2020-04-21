@@ -1,0 +1,20 @@
+name: flutter_mobile_vision_example
+description: Demonstrates how to use the flutter_mobile_vision plugin.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  flutter_mobile_vision: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # flutter_mobile_vision:
+  #   path: ../
+
+flutter:
+
+  uses-material-design: true
