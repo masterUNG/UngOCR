@@ -10,6 +10,8 @@ class _ReadOcrState extends State<ReadOcr> {
   // Filed
   Size size;
   String result;
+  List<OcrText> ocrTexts = List();
+  TextEditingController searchController = TextEditingController();
 
   // Method
   @override
@@ -40,19 +42,46 @@ class _ReadOcrState extends State<ReadOcr> {
 
     if (!mounted) return;
 
-    setState(() => result = texts[0].value);
+    setState(() => ocrTexts = texts);
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(),
-      body: RaisedButton(
-        onPressed: () {
-          processReadOCR();
-        },
-        child: Text('readOCR'),
+      body: Column(
+        children: <Widget>[
+          Column(
+            children: <Widget>[
+              searchField(),
+              readOCRbutton(),
+            ],
+          ),
+        ],
       ),
+    );
+  }
+
+  TextField searchField() {
+    if (ocrTexts.length != 0) {
+      setState(() {
+        result = ocrTexts[0].value;
+        print('result =====>>> $result');
+        searchController.text = result;
+      });
+    }
+
+    return TextField(
+      controller: searchController,
+    );
+  }
+
+  RaisedButton readOCRbutton() {
+    return RaisedButton(
+      onPressed: () {
+        processReadOCR();
+      },
+      child: Text('readOCR'),
     );
   }
 }

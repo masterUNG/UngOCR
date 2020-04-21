@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 21 14:39:58 ICT 2020
+#Tue Apr 21 15:03:19 ICT 2020
 4.path=flutter_assets/vm_snapshot_data
 8.set=ASSET
 6.path=lib/x86_64/libflutter.so
