@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_mobile_vision/flutter_mobile_vision.dart';
+import 'package:flutter_mobile_vision_example/widget/read_ocr.dart';
 import './barcode_detail.dart';
 import './face_detail.dart';
 import './ocr_text_detail.dart';
@@ -55,9 +56,16 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(body: _getOcrScreen(context),),
+      home: ReadOcr(),
     );
   }
+
+  // @override
+  // Widget build(BuildContext context) {
+  //   return MaterialApp(
+  //     home: Scaffold(body: _getOcrScreen(context),),
+  //   );
+  // }
 
   // @override
   // Widget build(BuildContext context) {

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/masterung/MyWorkSpace/FlutterTraining/UngOCR/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/masterung/.gradle/caches/transforms-2/files-2.1/e598de7c7a09f724692e95dea3099f3f/res/values/values.xml",
@@ -76,7 +76,7 @@
                     }
                 },
                 {
-                    "source": "/Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/masterung/MyWorkSpace/FlutterTraining/UngOCR/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

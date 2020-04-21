@@ -1,4 +1,4 @@
-#Tue Apr 21 13:40:57 ICT 2020
-base.0=/Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/build/app/intermediates/transforms/dexMerger/debug/0
+#Tue Apr 21 14:39:55 ICT 2020
+base.0=/Users/masterung/MyWorkSpace/FlutterTraining/UngOCR/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

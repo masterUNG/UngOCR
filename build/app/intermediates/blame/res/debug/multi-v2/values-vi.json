@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/masterung/MyWorkSpace/FlutterTraining/TestOCR/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+            "outputFile": "/Users/masterung/MyWorkSpace/FlutterTraining/UngOCR/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
             "map": [
                 {
                     "source": "/Users/masterung/.gradle/caches/transforms-2/files-2.1/d528ecb259a9aa932d8b2b7b4f91872a/res/values-vi/values-vi.xml",
