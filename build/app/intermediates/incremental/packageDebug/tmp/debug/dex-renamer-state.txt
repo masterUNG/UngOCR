@@ -1,4 +1,4 @@
-#Tue Apr 21 15:03:16 ICT 2020
+#Tue Apr 21 15:35:12 ICT 2020
 base.0=/Users/masterung/MyWorkSpace/FlutterTraining/UngOCR/build/app/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

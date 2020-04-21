@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_mobile_vision/flutter_mobile_vision.dart';
+import 'package:flutter_mobile_vision_example/ocr_text_detail.dart';
 
 class ReadOcr extends StatefulWidget {
   @override
@@ -52,14 +53,24 @@ class _ReadOcrState extends State<ReadOcr> {
       body: Column(
         children: <Widget>[
           Column(
-            children: <Widget>[
-              searchField(),
-              readOCRbutton(),
-            ],
+            children: <Widget>[searchField(), readOCRbutton(), showDetail(),],
           ),
         ],
       ),
     );
+  }
+
+  FlatButton showDetail() {
+    return FlatButton(
+        onPressed: () {
+          MaterialPageRoute route = MaterialPageRoute(
+            builder: (value) => OcrTextDetail(
+              ocrTexts[0],
+            ),
+          );
+          Navigator.of(context).push(route);
+        },
+        child: Text('Show Detail'));
   }
 
   TextField searchField() {
